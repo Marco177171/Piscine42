@@ -1,7 +1,7 @@
 # 42 Network IT School Selection Phase Projects
 
 Welcome to my showcase of projects completed during the selection phase for 42 Network's IT school. This repository holds a collection of projects that demonstrate my skills, problem-solving abilities, and dedication to learning in the field of IT.
-Each project showcases my proficiency in various programming languages, problem-solving techniques, and collaborative work, emphasizing my commitment to the IT domain.
+Each project showcases my problem-solving techniques and collaborative work, emphasizing my commitment to the IT domain.
 
 ## Key Skills Demonstrated
 
